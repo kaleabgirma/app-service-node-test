@@ -1,0 +1,688 @@
+team,name,injuryType,expectedReturn
+Arsenal,Gabriel M.,,
+Arsenal,Jurrien Timber,,
+Arsenal,Ricardo Calafiori,,
+Arsenal,Martin Ødegaard,,
+Brentford,Igor Thiago,,
+Brentford,Gustavo Nunes,,
+Brentford,Mathias Jensen,,
+Brentford,Aaron Hickey,,
+Brentford,Joshua Da Silva,,
+Brentford,Rico Henry,,
+Brighton,Yankuba,,
+Brighton,Danny Welbeck,,
+Brighton,Adam Webster,,
+Brighton,Simon Adingra,,
+Brighton,João Pedro,,
+Brighton,James Milner,,
+Brighton,Matt O'Riley,,
+Brighton,Solly March,,
+Chelsea,Armando Broja,,
+Crystal Palace,Chris Richards,,
+Crystal Palace,Cheick Doucouré,,
+Crystal Palace,Chadi Riad,,
+Crystal Palace,Matheus França,,
+Everton,Jesper Lindstrom,,
+Everton,Tim Iroegbunam,,
+Everton,James Garner,,
+Everton,Armando Broja,,
+Everton,Jarrad Branthwaite,,
+Everton,Youssef Chermiti,,
+Fulham,Joachim Andersen,,
+Fulham,Jorge Cuenca,,
+Fulham,Carlos Vinícius,,
+Fulham,Timothy Castagne,,
+Fulham,Sasa Lukic,,
+Ipswich,Cieran Slicker,,
+Ipswich,Ali Al-Hamadi,,
+Ipswich,Axel Tuanzebe,,
+Ipswich,Massimo Luongo,,
+Ipswich,Jens Cajuste,,
+Leicester City,Jannik Vestergaard,,
+Leicester City,Jakub Stolarczyk,,
+Leicester City,Patson Daka,,
+Leicester City,Hamza Choudhury,,
+Liverpool,Diogo Jota,,
+Liverpool,Alisson,,
+Liverpool,Federico Chiesa,,
+Liverpool,Harvey Elliot,,
+Manchester City,Rodri,,
+Manchester City,Kevin De Bruyne,,
+Manchester City,Kyle Walker,,
+Manchester United,Tyrell Malacia,,
+Manchester United,Noussair Mazraoui,,
+Manchester United,A. Matheus dos,,
+Manchester United,Kobbie Mainoo,,
+Manchester United,Harry Maguire,,
+Manchester United,Luke Shaw,,
+Man United,Leny Yoro,,
+Newcastle,S.Botman,,
+Newcastle,J.Lascelles,,
+Newcastle,A.Gordon,,
+Newcastle,Kieran Trippier,,
+Newcastle,Callum Wilson,,
+Nottingham,Morgan Gibbs-White,,
+Nottingham,Ibrahim Sangaré,,
+Nottingham,Danilo,,
+Southampton,Will Smallbone,,
+Southampton,Juan Larios,,
+Southampton,Gavin Bazunu,,
+Southampton,Ross Stewart,,
+Tottenham,D. Spence,,
+West Ham United,Niclas Füllkrug,,
+Wolverhampton,Yerson Mosquera,,
+Wolverhampton,Bastien Meupiyou,,
+Wolverhampton,Boubacar Traoré,,
+Wolverhampton,Hee-Chan Hwang,,
+Wolverhampton,Enso Gonzalez,,
+
+team,name,injuryType,expectedReturn
+Bilbao,Unai Simon,,
+Atletico,Robin Le Normand,,
+Atletico,Cesar Azpilicueta,,
+Atletico,Clement Lenglet,,
+Atletico,Pablo Barrios,,
+Atletico,Marcos Llorente,,
+Barcelona,Eric Garcia,,
+Barcelona,Ferran Torres,,
+Barcelona,M. ter Stegen,,
+Barcelona,Marc Bernal,,
+Barcelona,Andreas Christensen,,
+Barcelona,Ronald Araujo,,
+Celta Vigo,L. Daniel De,,
+Espanyol,Javi Puado,,
+Espanyol,Fernando Calero,,
+Espanyol,Eduardo Expósito,,
+Girona,Bryan Gil,,
+Girona,Viktor Tsygankov,,
+Girona,Y. Asprilla,,
+Girona,Oriol Romeu,,
+Girona,Jastin Garcia,,
+Girona,Ricard Artero,,
+Girona,I.Martin Nunez,,
+Girona,Jhon Solis,,
+Girona,Portu,,
+Las Palmas,Marvin Park,,
+Leganes,Naim Garcia,,
+Mallorca,Takuma Asano,,
+Mallorca,Ivan Cuellar,,
+Osasuna,Iker Muñoz,,
+Osasuna,Enrique Barja,,
+Vallecano,Khalid Adbul Mumin,,
+Vallecano,Alfonso Espino,,
+Vallecano,Diego Mendez,,
+Betis,Natan Souza,,
+Betis,Giovani Lo Celso,,
+Betis,William Carvalho,,
+Betis,Isco,,
+Betis,Marc Roca,,
+Real Madrid,T. Courtois,,
+Real Madrid,Brahim Diaz,,
+Real Madrid,Rodrygo,,
+Real Madrid,Daniel Carvajal,,
+Real Madrid,David Alaba,,
+Real Sociedad,Hamari Traore,,
+Real Sociedad,Arsen Zakharyan,,
+Real Sociedad,Kieran Tierney,,
+Real Sociedad,Igor Zubeldia,,
+Real Sociedad,Alex Remiro,,
+Real Sociedad,Pablo Martin,,
+Real Sociedad,Aihen Munoz,,
+Valladolid,Cenk Ozkacar,,
+Valladolid,Cesar De La Hoz,,
+Valladolid,Victor Meseguer,,
+Sevilla,Chidera Ejuke,,
+Sevilla,Saul Niguez,,
+Sevilla,Suso,,
+Valencia,Rafael Mir,,
+Valencia,Jesus Vazquez,,
+Valencia,Mouctar Diakhaby,,
+Villarreal,Ayoze Perez,,
+Villarreal,Denis Suarez,,
+Villarreal,Willy Kambwala,,
+Villarreal,Gerard Moreno,,
+Villarreal,Juan Foyth,,
+Villarreal,Alfonso Pedraza,,
+Villarreal,Eric Bailly,,
+
+team,name,injuryType,expectedReturn
+Milan,Tammy Abraham,,
+Milan,Davide Calabria,,
+Milan,Ismael Bennacer,,
+Milan,Alessandro Florenzi,,
+Milan,Tijjani Reijnders,,
+Atalanta,Odilon Kossounou,,
+Atalanta,Marco Brescianini,,
+Atalanta,Rafael Toloi,,
+Atalanta,Gianluca Scamacca,,
+Atalanta,Giorgio Scalvini,,
+Bologna,Martin Erlic,,
+Bologna,Michel Aebischer,,
+Bologna,Oussama El Azzouzi,,
+Bologna,Lewis Ferguson,,
+Cagliari,Jakub Jankto,,
+Cagliari,Leonardo Pavoletti,,
+Como,I.Van der,,
+Empoli,Saba Sazonov,,
+Empoli,Samuele Perisan,,
+Empoli,Tyronne Ebuehi,,
+Fiorentina,Albert Gudmundsson,,
+Fiorentina,Rolando Mandragora,,
+Fiorentina,Marin Pongracic,,
+Genoa,Vitinha,,
+Genoa,Mattia Bani,,
+Genoa,Pierluigi Gollini,,
+Genoa,Junior Messias,,
+Genoa,Caleb Ekuban,,
+Genoa,Ruslan Malinovskyi,,
+Genoa,Koni De Winter,,
+Hellas Verona,Martin Frese,,
+Hellas Verona,Abdou Harroui,,
+Hellas Verona,Ondrej Duda,,
+Hellas Verona,Juan Manuel Cruz,,
+Hellas Verona,Pawel Dawidowicz,,
+Inter,Carlos Augusto,,
+Inter,Francesco Acerbi,,
+Inter,Hakan Calhanoglu,,
+Inter,Kristjan Asllani,,
+Inter,Tajon Buchanan,,
+Juventus,Douglas Luiz,,
+Juventus,Teun Koopmeiners,,
+Juventus,Nicolas Gonzalez,,
+Juventus,Bremer,,
+Juventus,Arkadiusz Milik,,
+Lazio,Manuel Lazzari,,
+Lecce,Kevin Bonifazi,,
+Lecce,Medon Berisha,,
+Lecce,Luis Hasa,,
+Lecce,Filip Marchwinski,,
+Lecce,R.Catalin Burnete,,
+SS Monza 1912,Samuele Birindelli,,
+SS Monza 1912,Andrea Petagna,,
+SS Monza 1912,Stefano Sensi,,
+SS Monza 1912,Daniel Maldini,,
+SS Monza 1912,Alessio Cragno,,
+Parma Calcio,Yordan Osorio,,
+Parma Calcio,Alessandro Circati,,
+Parma Calcio,Mateusz Kowalski,,
+Parma Calcio,Adrian Benedyczak,,
+Roma,Stephan El Shaarawy,,
+Roma,Alexis Saelemaekers,,
+Napoli,Stanislav Lobotka,,
+Torino,Borna Sosa,,
+Torino,Duván Zapata,,
+Torino,Ivan IIic,,
+Torino,Perr Schuurs,,
+Udinese,Thomas Kristensen,,
+Udinese,Arthur Atta,,
+Udinese,Alexis Sanchez,,
+Udinese,Florian Thauvin,,
+Venezia,B. Steinn Bjarkason,,
+
+team,name,injuryType,expectedReturn
+Augsburg,Mads Pedersen,,
+Augsburg,Fredric Jensen,,
+Augsburg,Ruben Vargas,,
+Augsburg,Daniel Klein,,
+Augsburg,Reece Oxford,,
+Augsburg,K.Schlotterbeck,,
+Leverkusen,Amine Adli,,
+B. Munich,Mathys Tel,,
+B. Munich,Dayot Upamecano,,
+B. Munich,Aleksandar Pavlovic,,
+B. Munich,Sacha Boey,,
+B. Munich,Josip Stanisic,,
+B. Munich,Hiroki Ito,,
+Bochum,Myron Boadu,,
+Bochum,Felix Passlack,,
+Bochum,Matus Bero,,
+Bochum,Bernardo,,
+Dortmund,Yan Couto,,
+Dortmund,Julien Duranville,,
+Dortmund,Karim Adeyemi,,
+Dortmund,Giovanni Reyna,,
+Mgladbach,Nico Elvedi,,
+Mgladbach,Nathan N'Goumou,,
+Mgladbach,Jonas Omlin,,
+Mgladbach,Jan Olschowsky,,
+Mgladbach,Simon Walde,,
+Frankfurt,Sasa Kalajdzic,,
+Frankfurt,Oscar Hojlund,,
+Frankfurt,Mehdi Loune,,
+Heidenheim,Maximilian Breuig,,
+Freiburg,Manuel Gulde,,
+Freiburg,Merlin Rohl,,
+Freiburg,Daniel-Kofi Kyereh,,
+Freiburg,Kennet Schmidt,,
+Hoffenheim,Christopher Lenz,,
+Hoffenheim,Pavel Kaderabek,,
+Hoffenheim,Dennis Geiger,,
+Hoffenheim,Grischa Prömel,,
+Hoffenheim,Ihlas Bebou,,
+Hoffenheim,Finn Ole Becker,,
+Hoffenheim,Ozan Kabak,,
+Kiel,Lewis Holtby,,
+Kiel,A.Bernhardsson,,
+Kiel,Andu Kelati,,
+Kiel,Colin Kleine-Bekel,,
+Mainz,Andreas Hanche-Olsen,,
+Mainz,Phillipp Mwene,,
+Mainz,Nelson Weiper,,
+Mainz,Dominik Kohr,,
+Mainz,Nikolas Veratschnig,,
+Leipzig,Lukas Klostermann,,
+Leipzig,Nicolas Seiwald,,
+Leipzig,David Raum,,
+Leipzig,Assan Ouédraogo,,
+Leipzig,Xaver Schlager,,
+St. Pauli,Danel Sinani,,
+St. Pauli,Ben Voll,,
+St. Pauli,Elias Saad,,
+St. Pauli,Connor Metcalfe,,
+St. Pauli,Carlo Boukhalfa,,
+St. Pauli,Simon Zoller,,
+St. Pauli,Sascha Burchert,,
+St. Pauli,Sören Ahlers,,
+Union Berlin,Frederik Ronnow,,
+Union Berlin,Laszlo Benes,,
+Union Berlin,Jordan Siebatcheu,,
+Union Berlin,Tim Skarke,,
+Union Berlin,Lucas Tousart,,
+Union Berlin,Ivan Prtajin,,
+Union Berlin,Yannic Stein,,
+Union Berlin,Josip Juranovic,,
+Stuttgart,Chris Fuhrich,,
+Stuttgart,Luca Raimund,,
+Stuttgart,Dan-Axel Zagadou,,
+Stuttgart,Justin Diehl,,
+Stuttgart,Leonidas Stergiou,,
+Bremen,Marco Grull,,
+Bremen,Skelly Alvero,,
+Bremen,Jens Stage,,
+Bremen,Niklas Stark,,
+Wolfsburg,Aster Vranckx,,
+Wolfsburg,Mathys Angely,,
+Wolfsburg,Mattias Svanberg,,
+Wolfsburg,Lovro Majer,,
+Wolfsburg,Bartosz Bialek,,
+Wolfsburg,Kevin Paredes,,
+Wolfsburg,Rogerio,,
+
+team,name,injuryType,expectedReturn
+Angers,Sidiki Cherif,,
+Angers,Haris Belkebla,,
+Angers,Joseph Lopy,,
+Angers,Jacques Ekomie,,
+Angers,Cedric Hountondji,,
+Angers,Zinedine Ferhat,,
+Auxerre,Paul Joly,,
+Auxerre,Lasso Coulibaly,,
+Auxerre,Ousoumane Camara,,
+Le Havre,Josue Casimir,,
+Le Havre,Andy Logbo,,
+Lens,Sidi Bane,,
+Lens,Ruben Aguilar,,
+Lens,Martin Satriano,,
+Lens,Hervé Koffi,,
+Lens,Wesley Said,,
+Lens,Jimmy Cabot,,
+Lille,Tiago Santos,,
+Lille,Ethan Mbappé,,
+Lille,Ngal'ayel Mukau,,
+Lille,H. Arnar Haraldsson,,
+Lille,Rémy Cabella,,
+Lille,Nabil Bentaleb,,
+Lille,Samuel Umtiti,,
+Marseille,Valentín Carboni,,
+Marseille,Quentin Merlin,,
+Marseille,Faris Moumbagna,,
+Marseille,Rubén Blanco,,
+Marseille,Bilal Nadir,,
+Monaco,Mohammed Salisu,,
+Monaco,Folarin Balogun,,
+Monaco,Edan Diop,,
+Montpellier,Boubakar Kouyaté,,
+Montpellier,Yanis Issoufou,,
+Montpellier,Mousa Tamari,,
+Montpellier,Othmane Maamma,,
+Montpellier,Théo Sainte-Luce,,
+Nantes,Jean-Kevin Duverne,,
+Nantes,Bahereba Guirassy,,
+Nice,Y. Ndayishimiye,,
+Nice,Tanguy NDombele,,
+Nice,Morgan Sanson,,
+PSG,Presnel Kimpembe,,
+Reims,Mohammed Daramy,,
+Reims,Reda Khadra,,
+Reims,Abdoul Koné,,
+Rennes,Henrik Meister,,
+Saint-Etienne,Pierre Cornud,,
+Saint-Etienne,Ibrahima Wadji,,
+Saint-Etienne,Thomas Monconduit,,
+Saint-Etienne,Yvann Maçon,,
+Saint-Etienne,Mahmoud Bentayg,,
+Saint-Etienne,Anthony Briançon,,
+Strasbourg,E. Emegha,,
+Strasbourg,Alaa Bellaarouch,,
+Strasbourg,Caleb Wiley,,
+Strasbourg,Thomas Delaine,,
+Strasbourg,Milos Lukovic,,
+Strasbourg,Moise Sahi Dion,,
+Toulouse,Rasmus Nicolaisen,,
+
+
+team,name,injuryType,expectedReturn
+Atlanta ,Tristan Muyumba,Knee injury,Late November
+Atlanta ,Xande Silva,Foot injury,Late October
+Atlanta ,Quentin Westberg,Head injury,A few days
+Austin FC,Mikkel Desler,Leg injury,Late October
+Charlotte ,Nikola Petkovic,Knee injury,Early November
+Charlotte ,Jahlane Forbes,Hip injury,Late October
+Chicago ,Andrew Gutman,Leg injury,Late October
+Chicago ,Chase Gasper,Leg injury,Late October
+Colorado ,Cole Bassett,Hip injury,Late October
+Colorado ,Kevin Cabral,Elbow injury,Late October
+Columbus ,Sean Zawadzki,Abdominal injury,Late October
+Columbus ,Evan Bush,Arm injury,Early November
+DC United,Matai Akinmboni,Ankle injury,Late October
+DC United,Jackson Hopkins,Ankle injury,Late October
+DC United,Conner Antley,Knee injury,Late October
+Cincinnati,Sergio Santos,Concussion,Late October
+Cincinnati,Chidozie Awaziem,Leg injury,Late October
+Cincinnati,Matthew Miazga,Knee injury,Late October
+Cincinnati,Nick Hagglund,Leg injury,Late October
+Cincinnati,Isaiah Foster,Knee injury,Late October
+Cincinnati,Alec Kann,Hip injury,Late October
+Dallas,Maarten Paes,Wrist injury,Early November
+Dallas,Liam Fraser,Hip injury,Late October
+Dallas,Paxton Pomykal,Knee surgery,Out for season
+Dallas,Geovane Jesus,ACL injury,Early November
+Houston ,Daniel Steres,Ankle injury,Early November
+Houston ,Amine Bassi,Foot injury,Early November
+Houston ,Hector Herrera,Hamstring,Early November
+Houston ,Lawrence Ennali,Knee injury,Late October
+Houston ,Nelson Quiñónes,Knee injury,Late October
+Miami,Sergiy Kryvtsov,Knee injury,Early September
+Miami,Lionel Messi,Sprained ankle,Late August
+Miami,Nicolas Freire,ACL injury,Late January
+Miami,Facundo Farias,ACL injury,Late September
+LA Galaxy,Marco Reus,Thigh injury,Late October
+LA Galaxy,Martin Caceres,Knee injury,Early November
+Los Angeles ,Jesús Murillo,Knee injury,Late October
+Los Angeles ,Lorenzo Dellavalle,Knee injury,Late October
+Minnesota ,Zarek Valentin,Foot injury,Late October
+Nashville ,Tyler Boyd,ACL injury,Late March
+Nashville ,Lukas MacNaughton,Ankle injury,Late October
+New England,Tomás Chancalay,Knee injury,Late October
+New York City,Malachi Jones,Leg injury,Late October
+New York,Kyle Duncan,Knee injury,Late October
+New York,Wikelman Carmona,Thigh injury,Late October
+New York,Roald Mitchell,Knee injury,Early November
+Orlando ,D. Dan Thórhallsson,Leg injury,Late October
+Orlando ,David Brekalo,Thigh injury,Late October
+Orlando ,Mason Stajduhar,Leg injury,Early November
+Philadelphia,Isaiah LeFlore,Knee injury,Late October
+Portland ,Mason Toye,Back injury,Late October
+Salt Lake,Pablo Ruiz,Knee injury,Late October
+Salt Lake,Kevin Bonilla,ACL injury,Late October
+San Jose ,Ousseni Bouda,Muscle injury,Late October
+San Jose ,Benjamin Kikanovic,Hip injury,Late October
+San Jose ,JT Marcinkowski,Muscle injury,Late October
+San Jose ,Michael Baldisimo,Muscle injury,Late October
+Seattle Sounders,Raúl Ruidíaz,Knee injury,Mid November
+Kansas City,Daniel Rosero,Ankle injury,Early November
+Kansas City,Nemanja Radoja,Groin injury,Late October
+Saint Louis City SC,Chris Durkin,Knee injury,Mid November
+Saint Louis City SC,Célio Pompeu,Leg injury,Early November
+Saint Louis City SC,Tomas Ostrak,Ankle injury,Late October
+Toronto ,Kosi Thompson,Knee injury,Late November
+Toronto ,Kevin Long,Concussion,A few days
+Vancouver,Belal Halbouni,Illness,A few days
+Vancouver,Max Anchor,Finger injury,Late October
+
+team,name,injuryType,expectedReturn
+Alanyaspor,Furkan,,
+Antalyaspor,Bahadir Ozturk,,
+Antalyaspor,Bunyamin Balci,,
+Antalyaspor,Emrecan Uzunhan,,
+Besiktas,Gabriel Paulista,,
+Besiktas,Milot Rashica,,
+Besiktas,Necip Uysal,,
+Bodrumspor,Gokdeniz Bayrakdar,,
+Bodrumspor,Christophe Herelle,,
+Bodrumspor,Suleyman Ozdamar,,
+Bodrumspor,Mustafa Erdilman,,
+Bodrumspor,Tunahan Akpınar,,
+Eyupspor,Recep Niyaz,,
+Eyupspor,Umut Meras,,
+Galatasaray,Ismail Jakobs,,
+Gaziantep,G. Bitok Stephen,,
+Goztepe,Novatus Miroshi,,
+Goztepe,Kubilay Kanatsizkus,,
+Hatayspor,Massanga Matondo,,
+Kayserispor,Julian Jeanvier,,
+Kayserispor,Majid Hosseini,,
+Konyaspor,Josip Calusic,,
+Rizespor,Benhur Keser,,
+Rizespor,C.Hojer Nielsen,,
+Sivasspor,Mehmet Albayrak,,
+Trabzonspor,Stefano Denswil,,
+Trabzonspor,Anthony Nwakaeme,,
+Trabzonspor,Arseniy Batagov,,
+Trabzonspor,Huseyin Turkmen,,
+Trabzonspor,Stefan Savic,,
+Trabzonspor,Enis Destan,,
+
+team,name,injuryType,expectedReturn
+Ajax,Kristian Hlynsson,,
+Ajax,Julian Rijkhoff,,
+Ajax,Sivert Mannsverk,,
+Ajax,Steven Berghuis,,
+Ajax,A. van Axel,,
+Ajax,Gaston Avila,,
+Almere,James Lawrence,,
+Alkmaar,Jordy Clasie,,
+Alkmaar,Wouter Goes,,
+Alkmaar,Sem Westerveld,,
+Alkmaar,Lequincio Zeefuik,,
+FC Twente,Younes Taha,,
+FC Twente,Michal Sadílek,,
+Utrecht,V.Barkas,,
+Utrecht,Alonzo Engwanda,,
+Utrecht,Kevin Gadellaa,,
+Feyenoord,Santiago Giménez,,
+Feyenoord,Bart Nieuwkoop,,
+Feyenoord,Calvin Stengs,,
+Feyenoord,Quilindschy Hartman,,
+Feyenoord,Chris-Kévin Nadje,,
+Feyenoord,Gjivai Zechiel,,
+Sittard,Kristoffer Peterson,,
+Sittard,Alessio da Cruz,,
+Sittard,Kaj Sierhuis,,
+GA Eagles.,Soren Tengstedt,,
+GA Eagles.,Dean James,,
+Almelo,Sem Scheperman,,
+Almelo,Stijn Bultman,,
+Almelo,Sava Cestic,,
+Almelo,Nikolai Laursen,,
+Breda,Cherrion Vaerius,,
+Breda,Aimé Omgba,,
+Heracles,Sem Scheperman,,
+NEC Nijmegen,Dirk Proper,,
+NEC Nijmegen,Philippe Sandler,,
+NEC Nijmegen,Y. Borges Sanches,,
+Zwolle,Tristan Gooijer,,
+Zwolle,Samir Lagsir,,
+Eindhoven,Jerdy Schouten,,
+Eindhoven,Joey Veerman,,
+Eindhoven,Hirving Lozano,,
+Eindhoven,Fredrik Oppegård,,
+Eindhoven,Sergiño Dest,,
+Waalwijk,R. van der,,
+Waalwijk,Nouri El Harmazi,,
+Heerenveen,Danilo Al-Saed,,
+Sparta,Jonathan De Guzmán,,
+Sparta,Teo Quintero,,
+Willem II,Dani Mathieu,,
+Willem II,Erik Schouten,,
+Willem II,Niels van Berkel,,
+
+team,name,injuryType,expectedReturn
+AIK,S. Papagiannopoulos,,
+AIK,Taha Ayari,,
+AIK,Abdihakin Ali,,
+AIK,Alexander Fesshaie,,
+AIK,Martin Ellingsen,,
+Brommapojkarna,Liam Tahwildaran,,
+Brommapojkarna,Tim Waker,,
+Brommapojkarna,G. S. Magnusson,,
+Brommapojkarna,Liam Jordan,,
+Brommapojkarna,Kevin Ackermann,,
+Djurgarden,M. Nilsson Säfqvist,,
+GAIS,Robin Frej,,
+GAIS,Egzon Binaku,,
+Hacken,Johan Hammar,,
+Hacken,Amor Layouni,,
+Hacken,Isak Brusberg,,
+Halmstad,Tim Erlandsson,,
+Hammarby,Dennis Collander,,
+IFK Goteborg,Paulos Abraham,,
+IFK Goteborg,Abundance Salaou,,
+IFK Norrkoping,Ismet Lushaku,,
+IFK Norrkoping,Isak Ssewankambo,,
+Malmo,Sead Haksabanovic,,
+Malmo,Anton Tinnerholm,,
+Malmo,Stefano Vecchia,,
+Malmo,Oscar Lewicki,,
+Sirius,Herman Sjogrell,,
+Vasteras,Herman Magnusson,,
+
+team,name,injuryType,expectedReturn
+Atlas,Mauro Manotas,ACL injury,Early April
+Atlas,Brian Lozano,Knee surgery,Doubtful
+San Luis,J. Cesar Dominguez,Thigh injury,Doubtful
+San Luis,Cristiano Piccini,Knee injury,Doubtful
+San Luis,Vitinho,Knee injury,Doubtful
+Guadalajara,Armando González,Thigh injury,Doubtful
+Guadalajara,Pavel Uriel Pérez,Thigh injury,Doubtful
+Guadalajara,Javier Hernandez,Hamstring,A few weeks
+Guadalajara,Cade Cowell,Thigh injury,A few days
+Guadalajara,Leonardo Sepúlveda,Ankle injury,Doubtful
+Guadalajara,Luis Olivas,ACL injury,Early March
+America,Erick Sanchez,Illness,Doubtful
+America,Sebastian Cáceres,Muscle injury,Doubtful
+America,Igor Lichnovsky,Knee surgery,Late February
+Pumas UNAM,Jorge Ruvalcaba,Thigh injury,Late October
+Pumas UNAM,Leonardo Suarez,ACL injury,Late March
+Cruz Azul,Ignacio Rivero,Knee injury,Doubtful
+Cruz Azul,Gabriel Fernandez,Knee injury,Late October
+Juarez,Aviles Hurtado,Ankle injury,Late February
+Juarez,Sebastian Jurado,Knee injury,Doubtful
+Leon,Jose David Ramírez,Knock injury,Doubtful
+Leon,Adonis Frias,Knock injury,Doubtful
+Leon,Federico Vinas,Achilles tendon,Doubtful
+Mazatlan,Luis Amarilla,Ankle injury,Doubtful
+Mazatlan,Facundo Almada,Nose surgery,Doubtful
+Mazatlan,Gustavo Del Prete,Collarbone injury,Late October
+Monterrey,Stefan Medina,Ankle injury,Doubtful
+Necaxa,Alejandro Andrade,Shoulder injury,Late October
+Necaxa,Alexis Pena,Ankle injury,Late October
+Pachuca,Alexei Dominguez,Knee injury,A few days
+Puebla,Lucas Cavallini,ACL injury,Early March
+Queretaro,Jose Canale,Groin injury,Doubtful
+Queretaro,E. Ayrton Preciado,Thigh injury,Doubtful
+Queretaro,Oscar Manzanarez,Knock injury,A few days
+Santos Laguna,José Juan Macías,Hamstring,Late October
+Santos Laguna,Diego Medina,Thigh injury,Late October
+Santos Laguna,Jordan Carrillo,Knee injury,Early November
+Santos Laguna,Ronaldo Prieto,Knee injury,Doubtful
+Tigres ,Rafael Guerrero,Ankle injury,Late October
+Tijuana Caliente,Carlos González,Muscle injury,Doubtful
+Tijuana Caliente,Rafael Fernandez,Knock injury,Doubtful
+Tijuana Caliente,Fernando Madrigal,Knee injury,Early November
+Tijuana Caliente,C. F. Valenzuela,Knee injury,A few days
+
+team,name,injuryType,expectedReturn
+Argentinos Juniors,Erik Godoy,Back injury,Late October
+Argentinos Juniors,Sebastian Prieto,Leg injury,Late October
+Argentinos Juniors,Luciano Sanchez,Dislocated kneecap,Late October
+Atletico Tucuman,Gino Peruzzi,Tendon injury,A few weeks
+Atletico Tucuman,Juan Infante,Hamstring,A few weeks
+Atletico Tucuman,Lucas Ambrogio,ACL injury,Late October
+Banfield,Juan Alvarez,Knee injury,Late October
+Banfield,Damian Diaz,Ankle injury,Late October
+Banfield,Emanuel Insua,Muscle injury,A few weeks
+Banfield,Alejandro Maciel,Meniscus injury,Early November
+Banfield,Jesus Soraire,Sprained knee,Late October
+Banfield,Guillermo Enrique,Shoulder injury,Late October
+Banfield,Mateo Perez,Illness,A few weeks
+Banfield,Alejandro Cabrera,ACL injury,Late October
+Barracas ,Maximiliano Zalazar,Groin injury,Late October
+Barracas ,Sebastian Moyano,Knee injury,Late October
+Barracas ,Lucas Lopez,ACL injury,Late October
+Belgrano,Matias Daniele,Knee injury,Late October
+Central Cordoba,Lautaro Montoya,ACL injury,Late October
+Platense,Ronaldo Martinez,Muscle injury,A few weeks
+Platense,Juan Pablo Pignani,Foot injury,Late October
+Platense,Juan Pablo Goicochea,Muscle injury,Late October
+Platense,Raul Lozano,ACL injury,Late October
+Platense,Ciro Rius,ACL injury,Late October
+Defensa Justicia,Santi Ramos Mingo,Unknown,Late October
+Defensa Justicia,Rodrigo Bogarin,Muscle injury,A few weeks
+Defensa Justicia,David Barbona,ACL injury,Late October
+Estudiantes La Plata,Guido Carrillo,Broken cheekbone,Late October
+Estudiantes La Plata,Federico Fernandez,Muscle injury,A few weeks
+Estudiantes La Plata,Javier Altamirano,Back injury,Late October
+Gimnasia La Plata,Norberto Briasco,Muscle injury,A few days
+Gimnasia La Plata,Pablo De Blasis,Unknown,Late October
+Gimnasia La Plata,Gonzalo Gonzalez,Achilles tendon,Late October
+Godoy Cruz,Facundo Butti,ACL injury,Out for season
+Godoy Cruz,Martin Luciano,Muscle injury,Late October
+Godoy Cruz,Nahuel Ulariaga,ACL injury,Early March
+Huracan,Sebastian Ramirez,Unknown,Late October
+Huracan,Lucas Souto,Muscle injury,Late October
+Huracan,Fabio Pereyra,Groin strain,Late October
+Independiente ,Adrian Sporle,Muscle injury,A few weeks
+Independiente ,Joaquin Laso,Broken finger,Late October
+Independiente Riv.,Federico Moreno,Knee injury,Late October
+Lanus,Nicolas Morgantini,Achilles tendon,Early December
+Lanus,Abel Luciatti,Muscle injury,A few weeks
+Lanus,Ezequiel Munoz,Meniscus injury,Late November
+Lanus,Raul Loaiza,ACL injury,Out for season
+Lanus,Leonardo Jara,Muscle injury,Late October
+Newells ,Rodrigo Fernandez,Muscle injury,Late October
+Newells ,Lucas Besozzi,Hamstring,Late October
+Newells ,Ever Banega,Muscle injury,A few weeks
+Newells ,Lucas Hoyos,Muscle injury,A few weeks
+Newells ,Ian Glavinovich,Muscle injury,A few weeks
+Newells ,David Sotelo,ACL injury,Late October
+Racing ,Roger Martinez,Sprained ankle,A few weeks
+Racing ,Santiago Quiros,Knee injury,Early November
+Racing ,Marco Di Cesare,Muscle injury,A few weeks
+Racing ,Baltasar Rodriguez,Overload,A few weeks
+River Plate,Fabricio Bustos,Muscle injury,A few weeks
+River Plate,Marcos Acuna,Knock injury,A few weeks
+River Plate,Agustin Sant'Anna,Knee injury,Early November
+River Plate,Rodrigo Aliendro,Shoulder injury,Late October
+River Plate,Pity Martinez,ACL injury,Late October
+Rosario Central,Tomas O'Connor,Groin injury,Late October
+Rosario Central,Jaminton Campaz,Hamstring,Late October
+Rosario Central,Juan Cruz Komar,Heart problems,Early December
+Rosario Central,Agustin Modica,ACL injury,Late April
+San Lorenzo,Sebastian Blanco,Knee injury,Early November
+San Lorenzo,Malcom Braida,Foot injury,Late October
+San Lorenzo,Nahuel Arias,Groin injury,Late October
+San Lorenzo,Nicolas Tripichio,Broken collarbone,Early November
+Sarmiento,Federico Paradela,ACL injury,Late October
+Talleres Cordoba,Matias Catalan,ACL injury,Out for season
+Talleres Cordoba,Marcos Portillo,Muscle injury,A few weeks
+Tigre,Martin Ortega,Sprained knee,Late October
+Tigre,Tomas Cavanagh,Sprained knee,Late October
+Tigre,Nahuel Banegas,Sprained knee,Late October
+Tigre,Ijiel Protti,Achilles tendon,Late October
+Union Santa Fe,Nicolas Orsini,Hamstring,Late October
+Velez Sarsfield,Michael Santos,Muscle injury,Late October
+Velez Sarsfield,Leonardo Jara,Muscle injury,Late October
+Velez Sarsfield,Alejo Sarco,Knee injury,Late October
+Velez Sarsfield,Ricardo Centurion,Meniscus injury,Late October
+Velez Sarsfield,Yeison Gordillo,Sprained knee,Late October
