@@ -27,5 +27,5 @@ jobs:
         git checkout main
         git pull
         docker build -t backendapi:latest .
-        docker-compose -f /opt/backendapi/docker-compose.yml up -d
+        docker-compose -f /home/azureuser/backendapi-deployment/docker-compose.yml up -d
         EOF
